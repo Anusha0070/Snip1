@@ -16,13 +16,13 @@ Welcome to **Snip**, my new app! This project focuses on delivering a seamless u
 ## Screenshots
 
 ### Welcome Screen
-<img src="welcome.png" alt="Welcome Screen" width="250">
+<img src="welcome.png" alt="Welcome Screen" width="260">
 
 ### Login Screen
-<img src="login.png" alt="Login Screen" width="250">
+<img src="login.png" alt="Login Screen" width="260">
 
 ### Sign Up Screen
-<img src="singup.png" alt="Sign Up Screen" width="250">
+<img src="singup.png" alt="Sign Up Screen" width="260" >
 
 
 Feel free to explore **Snip** and experience the intuitive interface firsthand!
